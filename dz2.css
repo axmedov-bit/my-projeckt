@@ -1,0 +1,149 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    background-color: white;
+    display: flex;
+    background-position: center;
+    align-items: center;
+    width: 1453px;
+    height: 60px;
+}
+.box {
+    background-color: blueviolet;
+    display: flex;
+    background-position: center;
+}
+.table {
+    border: 5px;
+    color: white;
+}
+.img {
+    width: 1453px;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+.salom {
+    position: relative;
+    top: 20px;
+}
+.text {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.text2 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.text2:active {
+    color: blue;
+    cursor: pointer;
+}
+
+.qwe {
+    background-color: white;
+}
+.divtext {
+    background-color: white;
+    width: 1453px;
+    height: 682px;
+}
+.img6 {
+    background-color: white;
+    height: 0px;
+    width: 0px;
+}
+
+.image6 {
+    width: 1200px;
+    height: 500px;
+    padding-top: 200px;
+    padding-left: 409px;
+}
+.svg1 {
+    padding-top: 230px;
+    padding-left: 450px;
+}
+.svg2 {
+    padding-top: 30px;
+    padding-left: 340px;
+}
+.svg3 {
+    padding-top: 30px;
+    padding-left: 430px;
+}
+.svg4 {
+    padding-top: 30px;
+    padding-left: 80px;
+}
+
+.a {
+    padding-top: 90px;
+    padding-left: 450px;
+    color: black;
+    cursor: pointer;
+}
+.svg {
+    width: 1453px;
+    background-color: white;
+}
+.asd {
+    height: 0px;
+    background-color: white;
+    padding-left: 492px;
+}
+.ffff {
+    background-color: white;
+    height: 543px;
+}
+
+.svg11 {
+    padding-top: 60px;
+    padding-left: 350px;
+}
+.svg12 {
+    padding-top: 50px;
+    padding-left: 350px;
+}
+.svg13 {
+    padding-top: 30px;
+    padding-left: 290px;
+
+}
+.svg14 {
+    padding-top: 20px;
+    padding-left: 370px;
+}
+.svg15 {
+    padding-top: 40px;
+    padding-left: 90px;
+}
+.svg16 {
+    padding-top: 30px;
+    padding-left: 330px;
+}
+.ateg {
+    color: black;
+    padding-top: 0px;
+    padding-left: 380px;
+    cursor: pointer;
+}
