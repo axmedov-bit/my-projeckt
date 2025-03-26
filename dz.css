@@ -50,11 +50,11 @@ a {
     align-content: start;
 }
 .button1:active {
-    cursor: not-allowed;
+    cursor: wait;
 }
 
 .button2:active {
-    cursor: crosshair;
+    cursor: wait;
 }
 
 .button3:active {
